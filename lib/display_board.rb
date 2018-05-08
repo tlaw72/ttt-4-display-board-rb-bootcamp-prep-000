@@ -9,3 +9,6 @@ def display_board(board)
   puts "#{board[6]}|#{board[6]}|#{board[8]}"
   
 end
+
+board1 = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
+display_board(board1)
