@@ -10,8 +10,8 @@ def display_board(board)
   
 end
 
-board1 = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
-display_board(board1)
+board = ["   ", "   ", "   ", "   ", " X ", "   ", "   ", "   ", "   "]
+display_board(board)
 
 board2 = ["   ", "   ", "   ", " O ", "   ", " X ", "   ", "   ", "   "]
 display_board(board2)
